@@ -81,4 +81,4 @@ Bank_Marketing_Prediction/
 ## 👤 Author
 
 **Faraz Jehangiri** — CS undergrad at SSUET Karachi, Data Analyst Intern.  
-[github.com/Faraz-jehangiri](https://github.com/Faraz-jehangiri)
+[![GitHub](https://img.shields.io/badge/GitHub-Faraz--jehangiri-181717?style=flat-square&logo=github)](https://github.com/Faraz-jehangiri)
